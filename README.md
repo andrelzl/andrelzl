@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é André</h1>
-<h3 align="center">Estudande de Ciência da Computação no Centro de Informática da Universidade Federal de Pernambuco</h3>
+<h3 align="center">Estudante de Ciência da Computação no Centro de Informática da Universidade Federal de Pernambuco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelzl&label=Profile%20views&color=0e75b6&style=flat" alt="andrelzl" /> </p>
 
