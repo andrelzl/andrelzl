@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é André</h1>
 <h3 align="center">Estudante de Ciência da Computação no Centro de Informática da Universidade Federal de Pernambuco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelzl&label=Profile%20views&color=0e75b6&style=flat" alt="andrelzl" /> </p>
-
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andreluizvlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreluizvlr" height="30" width="40" /></a>
